@@ -1,0 +1,23 @@
+#color-box {
+	width: 192px;
+	height: 32px;
+}
+#color-box-rgb-parent {
+	width: 192px;
+	height: 128px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
+.color-box-rgb {
+	width: 64px;
+}
+#box-r {
+	background-color: red;
+}
+#box-g {
+	background-color: green;
+}
+#box-b {
+	background-color: blue;
+}
